@@ -84,7 +84,7 @@
 <tr>
 <td>
 <div id="NavFrame6" class="NavFrame collapsed">
-<div class="NavHead">Glossary<a id="NavToggle6" class="NavToggle" href="https://en.wikipedia.org/wiki/Artificial_intelligence#">[hide]</a></div>
+<div class="NavHead">Glossary</div>
 <div class="NavContent">
 <ul>
 <li><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Glossary</a></li>
