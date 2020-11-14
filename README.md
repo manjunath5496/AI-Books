@@ -187,7 +187,105 @@
                 
 		   
 		   
-		   
+<h2> Papers </h2>
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(1).pdf" style="text-decoration:none;">On Pixel-Wise Explanations for Non-Linear
+Classifier Decisions by Layer-Wise Relevance Propagation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(2).pdf" style="text-decoration:none;">Black Box Explanation by Learning Image
+Exemplars in the Latent Feature Space</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(3).pdf" style="text-decoration:none;">Visualizing and Understanding Convolutional Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(4).pdf" style="text-decoration:none;">Deep Inside Convolutional Networks: Visualising
+Image Classification Models and Saliency Maps</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(5).pdf" style="text-decoration:none;">Understanding Deep Image Representations by Inverting Them</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(6).pdf" style="text-decoration:none;">Striving for Simplicity: The All Convolutional Net</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(7).pdf" style="text-decoration:none;">Object Detectors Emerge in Deep Scene CNNs</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(8).pdf" style="text-decoration:none;"> Understanding intermediate layers
+using linear classifier probes </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(9).pdf" style="text-decoration:none;">An unexpected unity among methods for interpreting model predictions</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(10).pdf" style="text-decoration:none;">Visualizing Deep Neural Network Decisions: Prediction Difference Analysis </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(11).pdf" style="text-decoration:none;">Axiomatic Attribution for Deep Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(12).pdf" style="text-decoration:none;">Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(13).pdf" style="text-decoration:none;">Learning Important Features Through Propagating Activation Differences</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(14).pdf" style="text-decoration:none;">Network Dissection:
+Quantifying Interpretability of Deep Visual Representations</a></li>
+                              
+			      
+			      
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
+Recovery Refinement</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
+for Data Analytics Clusters</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(18).pdf" style="text-decoration:none;">Labels and Event Processes
+in the Asbestos Operating System</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
+POSIX kernel in a high-level language</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
+Lifelong Program Analysis and Transformation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
+Kernel in a High-Level Language [Cody Cutler]</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(26).pdf" style="text-decoration:none;">Certifying a File System Using
+Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(27).pdf" style="text-decoration:none;">A Differential Approach to
+Undefined Behavior Detection</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
+POSIX Multikernel</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
+State-of-the-art defenses and open problems</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
+Networks</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
+Designing Scalable Software for Multicore Processors</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
+CB-DPOR</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
+Concurrent Data Structures</a></li>
+ 
+  <li>	   
 		   
 		   
 		   
