@@ -222,70 +222,65 @@ Quantifying Interpretability of Deep Visual Representations</a></li>
                               
 			      
 			      
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(15).pdf" style="text-decoration:none;">SmoothGrad: removing noise by adding noise</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(16).pdf" style="text-decoration:none;">Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(17).pdf" style="text-decoration:none;">Grad-CAM++: Improved Visual Explanations for
+Deep Convolutional Networks</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(18).pdf" style="text-decoration:none;">The (Un) reliability of saliency methods</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(19).pdf" style="text-decoration:none;">Towards better understanding of gradient-based attribution methods for Deep Neural Networks</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(20).pdf" style="text-decoration:none;">Using KL-divergence to focus Deep Visual
+Explanation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(21).pdf" style="text-decoration:none;">TED: Teaching AI to Explain its Decisions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(22).pdf" style="text-decoration:none;"> ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(23).pdf" style="text-decoration:none;">Counterfactual Visual Explanations</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(24).pdf" style="text-decoration:none;">'Why did you do that?' Explaining black box models with Inductive Synthesis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(25).pdf" style="text-decoration:none;">A Simple Saliency Method That Passes the Sanity
+Checks</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(26).pdf" style="text-decoration:none;">Interpretable Image Recognition with Hierarchical Prototypes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(27).pdf" style="text-decoration:none;">Score-CAM:
+Score-Weighted Visual Explanations for Convolutional Neural Networks</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(28).pdf" style="text-decoration:none;">Anchors: High-Precision Model-Agnostic Explanations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(29).pdf" style="text-decoration:none;">Understanding Deep Neural Networks For Regression In Leaf Counting </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(30).pdf" style="text-decoration:none;">Explanation by Progressive Exaggeration</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(31).pdf" style="text-decoration:none;">Interpretable Explanations of Black Boxes by Meaningful Perturbation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(32).pdf" style="text-decoration:none;">Understanding Black-box Predictions via Influence Functions</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(33).pdf" style="text-decoration:none;">Sanity Checks for Saliency Maps</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(34).pdf" style="text-decoration:none;">Towards Robust Interpretability
+with Self-Explaining Neural Networks</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(35).pdf" style="text-decoration:none;">This Looks Like That: Deep Learning for
+Interpretable Image Recognition</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(36).pdf" style="text-decoration:none;">A Unified Approach to Interpreting Model
+Predictions</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(37).pdf" style="text-decoration:none;">"Why Should I Trust You?"
+Explaining the Predictions of Any Classifier</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(38).pdf" style="text-decoration:none;">Grad-CAM:
+Visual Explanations from Deep Networks via Gradient-based Localization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(39).pdf" style="text-decoration:none;">Bias Also Matters: Bias Attribution for Deep Neural Network Explanation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(40).pdf" style="text-decoration:none;">Understanding Neural Networks Through Deep Visualization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(41).pdf" style="text-decoration:none;">Interpretable Convolutional Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/aip(42).pdf" style="text-decoration:none;">Learning Deep Features for Discriminative Localization</a></li>
  
-  <li>	   
+  </ul>	   
 		   
 		   
 		   
